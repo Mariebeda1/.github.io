@@ -1,0 +1,116 @@
+<!DOCTYPE HTML>
+<!--
+	Alpha by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156016776-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-156016776-1');
+</script>
+		<title>About Me</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="shortcut icon" type="image/png" href="images/sql_4_small.png"/>
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<h1><a href="index.html">Portfolio Website</a> by George Oddoye</h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html" class="button">Home</a></li>
+							<li>
+								<a href="#" class="icon solid fa-angle-down">Menu</a>
+								<ul>
+									<li><a href="aboutme.html">About Me</a></li>
+									<li><a href="resume.html">Resume</a></li>
+									<li><a href="contact.html">Contact</a></li>
+									<li>
+										<a href="#">Projects</a>
+										<ul>
+											<li><a href="indeed_project.html">Indeed Data Professional</a></li>
+											<li><a href="web_project.html">Web Data Visualization</a></li>
+											<li><a href="etl_project.html">Extract Transform Load</a></li>
+											<li><a href="#">Coming Soon..</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<!-- <li><a href="#" class="button">Sign Up</a></li> -->
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Main -->
+				<section id="main" class="container">
+					<header>
+						<h2>About Me</h2>
+						<p>A closer look at who I am and where I want to go professionally</p>
+					</header>
+					<div class="box">
+						<span class="image featured"><img src="images/bike_2_1.jpg
+							" alt="" /></span>
+						<h3>My experience</h3>
+						<hr class="divider">
+						<p>I am an extremely self driven and motivated individual looking to constantly challenge myself not only personally but in the professional field. I studied at the University of Georgia where I received a bachelor's degree in Biology and I am currently enrolled at Georgia Institute of Technology for Data Science and Analytics. My area of expertise is in computer programming relating to the financial and tech sectors.
+
+							I am a hopeful Data Analyst familiar with gathering, cleaning and organizing data for use by technical and non-technical personnel. <br><br>I have an advanced understanding of statistical, algebraic and other analytical techniques. Well versed in the finance investment sector and the tech industry. I'm highly organized, motivated and diligent with significant background in Python, Excel, SQL, HTML/CSS statistical modeling and business intelligence including but not limited to Tableau.
+							
+							I have developed strong interpersonal skills which allows me to excel in many industry including sales, education, financial and tech sectors. <br><br>My true passion lies in data analysis. I have a strong desire to help business uncover meaningful trends and patterns which will lead to increased sales revenue, improved application performance, and appropriate customer targeting and recommendations.
+							
+							One of my proudest achievement to date is speaking every year at Emory's School of Medicine to second year medical students. My presentation is delivered to nearly one hundred medical students which has prepared me to speak in front of large audiences. </p>
+						<div class="row">
+							<div class="row-6 row-12-mobilep">
+								<h3>My philosophy</h3>
+								<hr class="divider">
+								<p>I truly believe that every passing day is an opportunity to improve one's self in all aspects of life. The very nature of programming itself doesn't allow a person to become complacent. With how quickly the tech field moves forward the second a person feels they know it all, they will be left behind in the blink of an eye. A lot can and will be learned on the job but I believe that self studying is also a vital part of remaining a proficient programmer. 
+									<br/><br/><i>"As far as mental development is concerned, we should never be complacent. We can develop our minds infinitely - there is no limitation."</i><b>-Dalai Lama</b>
+								 
+								</p>
+							</div>
+							<div class="row-6 row-12-mobilep">
+								<h3>My dream job</h3>
+								<hr class="divider">
+								<p>In an ideal scenario I would be working as a data analyst in the technology, consulting, or financial sector. Where I would develope and sharpen my skill set in Python/R programming, SQL databases, as well as, business intelligence tools. I would also like to perfect my skills in statistics and machine learning so I could one day become a full fledged data scientist. I fully intend to pursue a masters degree, while still working, in either computer science or data science to help aid in that effort. I know the path I have set in front of myself is not an easy one but if it was I don't think it would be worth following. </p>
+							</div>
+						</div>
+					</div>
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="https://github.com/Goddoye" class="icon brands fa-github" rel="noopener noreferrer" target="_blank"><span class="label">Github</span></a></li>
+						<li><a href="https://www.linkedin.com/in/georgeoddoye/" class="icon brands fa-linkedin" rel="noopener noreferrer" target="_blank"><span class="label">LinkedIn</span></a></li>
+						<!-- <li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li> -->
+						<li><a href="mailto:oddoye.george@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; 2020 George Oddoye.</li><li>All rights reserved</a></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
